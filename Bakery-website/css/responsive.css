@@ -1,0 +1,53 @@
+@media (min-width:1170px) {
+
+}
+
+@media (min-width:992px) {
+    .banner-content .tagline {
+        font-size: 1.2rem;
+      }
+      .banner-content h1 {
+        font-size: 4.5rem;
+      }
+      .banner-content p {
+        font-size: 1rem;
+      }
+
+     
+
+     
+}
+@media (min-width: 768px) {
+  .top-tray {
+    display: flex;
+  }
+  #bars {
+    display: none;
+  }
+  #menu {
+    position: static;
+    background-color: white;
+    flex-direction: row;
+    width: initial;
+    height: initial;
+    padding: 0;
+    box-shadow: none;
+  }
+  .banner-content .tagline {
+    font-size: 1rem;
+  }
+  .banner-content h1 {
+    font-size: 5rem;
+  }
+  .banner-content p {
+    font-size: 0.9rem;
+  }
+
+ 
+
+
+}
+
+@media (min-width:576px) {
+  
+}
